@@ -1,1 +1,5 @@
-
+title: Princess Ortega
+logo:/assets/img/headshot_circle.png
+#description:text below image
+showd_downloads: true
+theme: jekyll-theme-minimal
